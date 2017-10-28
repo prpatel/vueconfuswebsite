@@ -25,6 +25,13 @@ a {
   cursor: pointer;
 }
 
+pre {
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  text-align: left;
+}
 a:hover,
 a:focus {
   color: #0c86b6;
@@ -50,8 +57,8 @@ a:focus {
           transition: all .2s;
 }
 .btn-blue {
-  color: #fff;
-  background-color: #0093cf;
+  color: #42b983;
+  background-color: #fff;
 }
 .btn-blue:hover,
 .btn-blue:focus {
@@ -393,7 +400,7 @@ a:focus {
 .underline-tagline {
     display: inline;
     text-decoration: none;
-    border-bottom: 8px solid #2c3e50;
+    border-bottom: 8px solid #fff;
     padding-bottom: 0px;
     /*line-height: 10px;*/
 }
@@ -517,21 +524,17 @@ a:focus {
 }
 
 .first-name-last-name-copy {
-  font-family: 'Titillium Web', sans-serif; font-weight:700;
-  font-size: 18px;
+  font-size: 36px;
   color: #312e3b;
-  color: var(--charcoal-grey);
 }
 
 .session-style {
-  font-family: 'Titillium Web', sans-serif; font-weight:700;
-  font-size: 14px;
-  color: #312e3b;
-  color: var(--charcoal-grey);
+  font-size: 36px;
+  color: #fff;
 }
 
 .speaker-list {
-  height: 275px;
+  height: 300px;
 }
 
 .schedule-odd {
