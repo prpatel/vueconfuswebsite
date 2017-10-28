@@ -402,7 +402,9 @@ a:focus {
     text-decoration: none;
     border-bottom: 8px solid #fff;
     padding-bottom: 0px;
+  padding-top: 5px;
     /*line-height: 10px;*/
+  line-height: 150%;
 }
 
 .underline-tagline-gray {
@@ -524,17 +526,17 @@ a:focus {
 }
 
 .first-name-last-name-copy {
-  font-size: 36px;
+  font-size: 24px;
   color: #312e3b;
 }
 
 .session-style {
-  font-size: 36px;
+  font-size: 24px;
   color: #fff;
 }
 
 .speaker-list {
-  height: 300px;
+  height: 275px;
 }
 
 .schedule-odd {
