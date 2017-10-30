@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e475aba-492c-4791-bd05-f783beb361ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14322">
-              <caret line="651" column="62" lean-forward="true" selection-start-line="651" selection-start-column="62" selection-end-line="651" selection-end-column="62" />
+            <state relative-caret-position="648">
+              <caret line="547" column="31" lean-forward="true" selection-start-line="547" selection-start-column="31" selection-end-line="547" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="120" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="406" column="18" lean-forward="false" selection-start-line="406" selection-start-column="18" selection-end-line="406" selection-end-column="18" />
+            <state relative-caret-position="155">
+              <caret line="350" column="16" lean-forward="true" selection-start-line="350" selection-start-column="16" selection-end-line="350" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -60,16 +71,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>navbar-brand</find>
-      <find>navbar</find>
-      <find>nav-external</find>
-      <find>vueconf.us</find>
-      <find>chrys</find>
-      <find>music.</find>
-      <find>. us</find>
-      <find>VueConf.us</find>
-      <find>footer</find>
-      <find>50</find>
       <find>mailto</find>
       <find>location</find>
       <find>click here</find>
@@ -79,7 +80,6 @@
       <find>jazz</find>
       <find>session-style</find>
       <find>venoboxinline</find>
-      <find>venob</find>
       <find>cfp guide</find>
       <find>Advanced</find>
       <find>evan</find>
@@ -90,6 +90,17 @@
       <find>pre</find>
       <find>300px</find>
       <find>two conf</find>
+      <find>under</find>
+      <find>all thing</find>
+      <find>161617</find>
+      <find>venob</find>
+      <find>venobox_custom</find>
+      <find>vbox</find>
+      <find>.png</find>
+      <find>script</find>
+      <find>veno</find>
+      <find>script.js</find>
+      <find>&lt;script</find>
     </findStrings>
     <replaceStrings>
       <replace>https://tickets.connectevents.io/events/vueconfus/</replace>
@@ -107,8 +118,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -154,6 +166,11 @@
               <item name="newwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="newwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,12 +276,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509133157771</updated>
-      <workItem from="1509133159464" duration="12515000" />
+      <workItem from="1509133159464" duration="17374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12515000" />
+    <option name="totallyTimeSpent" value="17374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1618" height="1057" extended-state="0" />
@@ -315,10 +332,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="350" column="16" lean-forward="true" selection-start-line="350" selection-start-column="16" selection-end-line="350" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14322">
-          <caret line="651" column="62" lean-forward="true" selection-start-line="651" selection-start-column="62" selection-end-line="651" selection-end-column="62" />
+        <state relative-caret-position="648">
+          <caret line="547" column="31" lean-forward="true" selection-start-line="547" selection-start-column="31" selection-end-line="547" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -345,10 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="406" column="18" lean-forward="false" selection-start-line="406" selection-start-column="18" selection-end-line="406" selection-end-column="18" />
+        <state relative-caret-position="571">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="120" selection-end-column="19" />
           <folding />
         </state>
       </provider>

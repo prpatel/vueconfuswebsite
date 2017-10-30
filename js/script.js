@@ -111,12 +111,12 @@ function initAnimations() {
 
 $(document).ready(function() {
 
-   $('.venobox').venobox();
+   // $('.venobox').venobox();
    $('.venoboxinline').venobox({
                     framewidth: '100%',
                     frameheight: '100%',
                     border: '10px',
-                    bgcolor: '#fac552',
+                    bgcolor: '#fff',
                     titleattr: 'data-title'
                 });
     initNavbar();

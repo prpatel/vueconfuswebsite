@@ -6,6 +6,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vue.js Website Vue JavaScript Conference">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="http://vueconf.us">
+    <meta name="twitter:title" content="Official Vue.js Conf USA">
+    <meta name="twitter:description" content="This is the official Vue.js Conference in the USA">
+    <meta name="twitter:image" content="http://vueconf.us/img/cover/vuesplash.png">
+    <meta name="twitter:site" content="@vueconfus">
+    <meta name="twitter:creator" content="@vueconfus">
+    <meta name="description" content="Official Vue.js Conf USA">
+    <meta name="keywords" content="Vue.js,VueHTML,CSS,XML,JavaScript">
+    <meta name="author" content="@vueconfus">
     <link rel="shortcut icon" href="favicon.ico">
     <title>VueConf.US</title>
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Roboto Mono' rel='stylesheet' type='text/css'>
@@ -32,18 +42,6 @@
             <div class="content text-center">
                 <br/>
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class=" service animated_hiding">
-                            <h3><i>We're almost ready to launch, this is a preview! </i></h3>
-                            <h3><i>You can contact us at hello@vueconf.us in the meanwhile for questions.</i></h3>
-
-                            <br/>
-
-                        </div>
-                    </div>
-                </div>
-
                 <div class="heading">
                     <h1 class="chrysler underline-tagline">Music. Food. Vue.</h1>
 
@@ -59,7 +57,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class=" service animated_hiding">
-                            <h1>Join us in New Orleans for a 3 day event on all thing Vue.js!</h1>
+                            <h1>Join us in New Orleans for a 3 day event on all things Vue.js!</h1>
                         </div>
                     </div>
                 </div>
@@ -542,22 +540,16 @@ Incident Resolution
     <script src="js/script.js"></script>
     <!-- Google Analytics: change UA-25089888-9 to be your site's ID. -->
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108953467-1"></script>
     <script>
-        (function(b, o, i, l, e, r) {
-            b.GoogleAnalyticsObject = l;
-            b[l] || (b[l] =
-                function() {
-                    (b[l].q = b[l].q || []).push(arguments)
-                });
-            b[l].l = +new Date;
-            e = o.createElement(i);
-            r = o.getElementsByTagName(i)[0];
-            e.src = 'https:///www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e, r)
-        }(window, document, 'script', 'ga'));
-        ga('create', 'UA-88064368-1');
-        ga('send', 'pageview');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-108953467-1');
     </script>
+
 
     <section id="session-id-ws1" class="page" style="display:none;">
         <div style="background:#2c3e50; width:100%; height:100%; float:left; padding:10px; font-size: 2em;">
