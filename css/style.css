@@ -31,6 +31,7 @@ pre {
   white-space: -pre-wrap;      /* Opera 4-6 */
   white-space: -o-pre-wrap;    /* Opera 7 */
   text-align: left;
+  word-break: keep-all;
 }
 a:hover,
 a:focus {
@@ -112,7 +113,8 @@ a:focus {
 }
 .navbar-brand {
   font-size: 30px;
-  line-height: 35px;
+  line-height: 7px;
+  vertical-align: middle;
 }
 .navbar-default .navbar-brand {
   font-weight: 500;
