@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e475aba-492c-4791-bd05-f783beb361ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8e475aba-492c-4791-bd05-f783beb361ad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="0" column="31023" lean-forward="false" selection-start-line="0" selection-start-column="31023" selection-end-line="0" selection-end-column="31023" />
+            <state relative-caret-position="616">
+              <caret line="0" column="39980" lean-forward="false" selection-start-line="0" selection-start-column="39980" selection-end-line="0" selection-end-column="39980" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -303,8 +301,8 @@
     <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="0" column="31023" lean-forward="false" selection-start-line="0" selection-start-column="31023" selection-end-line="0" selection-end-column="31023" />
+        <state relative-caret-position="616">
+          <caret line="0" column="39980" lean-forward="false" selection-start-line="0" selection-start-column="39980" selection-end-line="0" selection-end-column="39980" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
