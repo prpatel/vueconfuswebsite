@@ -23,3 +23,9 @@ object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*!
+ * tiny-cookie - A tiny cookie manipulation plugin
+ * https://github.com/Alex1990/tiny-cookie
+ * Under the MIT license | (c) Alex Chao
+ */
